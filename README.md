@@ -3,6 +3,10 @@
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+# build
+
+https://effervescent-boba-d7e6be.netlify.app/
+
 ## Todo
 
 - 품목 보여주기
