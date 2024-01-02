@@ -1,0 +1,13 @@
+.items {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 30px 32px;
+  margin: 10px 0;
+}
+.item {
+  width: 286px;
+}
+.index {
+  font-size: 32px;
+  font-weight: bold;
+}

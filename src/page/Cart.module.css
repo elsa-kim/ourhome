@@ -1,0 +1,30 @@
+.table {
+  width: 100%;
+  text-align: center;
+}
+
+.header {
+  background-color: #6666660a;
+  width: 100%;
+}
+.header_th {
+  padding: 30px 0;
+  font-size: 20px;
+}
+.empty {
+  display: flex;
+  flex-direction: column;
+  padding: 250px;
+  background-color: #6666660a;
+}
+.empty_exp {
+  font-size: 30px;
+  margin-bottom: 30px;
+}
+.empty_btn {
+  background-color: #6666661a;
+  border: 1px solid #666666;
+  font-size: 23px;
+  padding: 5px 10px;
+  cursor: pointer;
+}

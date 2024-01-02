@@ -1,0 +1,54 @@
+.img {
+  width: 120px;
+  height: 120px;
+  border: 1px solid #6666661f;
+  margin: 10px 0;
+}
+.title {
+  text-align: left;
+  font-size: 22px;
+}
+.flex {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  justify-content: center;
+  font-size: 21px;
+}
+.normal_price {
+  font-size: 21px;
+}
+.origin_price {
+  text-decoration: line-through;
+  color: #666666;
+  font-size: 18px;
+}
+.count {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  border: 1px solid #6666661f;
+  font-size: 18px;
+  margin: 0 5px;
+}
+.count_icon {
+  background-color: transparent;
+  border: none;
+  font-size: 18px;
+  color: #666666;
+  padding: 2px;
+}
+.count_icon:first-child {
+  border-right: 1px solid #6666661f;
+}
+.count_icon:last-child {
+  border-left: 1px solid #6666661f;
+}
+.count_num {
+  padding: 0 3px;
+}
+.total {
+  font-size: 21px;
+  padding: 0 10px;
+}

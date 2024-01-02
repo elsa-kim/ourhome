@@ -1,0 +1,15 @@
+.total {
+  display: flex;
+  background-color: #6666660a;
+  padding: 30px;
+}
+.detail {
+  color: #666666;
+}
+.point {
+  font-size: 30px;
+}
+.icon {
+  color: #666666;
+  font-size: 30px;
+}

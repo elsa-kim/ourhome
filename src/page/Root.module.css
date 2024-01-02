@@ -1,0 +1,27 @@
+.header {
+  /* display: flex;
+  flex-direction: row; */
+  display: flex;
+  align-items: center;
+  position: relative;
+  padding: 30px;
+  border-bottom: 2px solid rgb(226, 225, 225);
+}
+.nav {
+  /* display: flex;
+  align-items: flex-end; */
+  position: absolute;
+  right: 0;
+  bottom: 0;
+}
+.btn {
+  border: none;
+  background-color: transparent;
+  font-size: 25px;
+  margin: 10px;
+}
+.btn:hover {
+  cursor: pointer;
+  color: rgb(69, 34, 34);
+  font-weight: bold;
+}

@@ -1,0 +1,121 @@
+[
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20201118/C4A1610E7468407FA935CBF8DE2164DF.jpg",
+    "title": "진한 사골곰탕 300g",
+    "detail": "100% 사골로 고은 진한 사골곰탕",
+    "price": 1750,
+    "sale_price": 1660,
+    "sale_percent": "5%",
+    "temp": "실온",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20230801/93CE10E54C6E49D1AD21BE99B8956BCC.jpg",
+    "title": "[온더고] 전주식 소고기 오색비빔밥 310g",
+    "detail": "오색 가득 토핑 듬뿍, 소고기, 한국의 맛",
+    "price": 5980,
+    "sale_price": 5680,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20231226/B4CCDFBCFB884CB0A96E45AEA6EBAD40.jpg",
+    "title": "[구씨반가] 전복 소갈비탕 600g",
+    "detail": "진주명문가 구씨가문의 전통을 담은 전복 소갈비탕",
+    "price": 11980,
+    "sale_price": 9580,
+    "sale_percent": "20%",
+    "temp": "실온",
+    "remark": "신제품",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/goodImages/S000000001059_1.jpg",
+    "title": "메추리알 장조림 200g",
+    "detail": "장조림, 간편반찬,꽈리고추,곤약",
+    "price": 3150,
+    "temp": "냉장",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20231101/9DD8506AD6B648D1935517EA678BB65F.jpg",
+    "title": "아워홈 갈치김치 800g (트레이)",
+    "detail": "국내산 갈치로 시원하고 깊은 맛이 일품",
+    "price": 19000,
+    "temp": "냉장",
+    "remark": "베스트",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20220930/ECF4934776D942C3B3296F2BFD61E3CF.jpg",
+    "title": "소불고기볶음밥 230g",
+    "detail": "소불고기, 간장베이스, 간편조리",
+    "price": 2070,
+    "sale_price": 1960,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20230801/FDC19A9261874DE58B6B50F9EEFA007E.jpg",
+    "title": "[온더고] 이탈리아식 페퍼라구 볼로네제 파스타 300g",
+    "detail": "매콤달콤, 고기 듬뿍, 라구 소스, 펜네파스타",
+    "price": 5980,
+    "sale_price": 5680,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20230809/B22F8C84573E46B0B215CB68E7BA106F.jpg",
+    "title": "[온더고] 통모짜 로제 떡볶이 with 파스타 320g",
+    "detail": "치즈 듬뿍, 떡볶이, 로제 소스, 생크림, 퓨전한식",
+    "price": 5980,
+    "sale_price": 5680,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20220811/D4C2528AFF5A4FAE840A7A0DD564348E.jpg",
+    "title": "볶음밥 5종 세트",
+    "detail": "가성비 최고 볶음밥 5종",
+    "price": 9810,
+    "sale_price": 8820,
+    "sale_percent": "10%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20201204/CB1FF1DB24EE41B99B55CCDB3B6D2845.jpg",
+    "title": "연탄구이맛 간장불고기 400g",
+    "detail": "부드러운 앞다리살, 저온숙성, 달콤짭짤, 연탄구이맛",
+    "price": 7580,
+    "sale_price": 7200,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20230731/AFC6261374B5414E84960BE8E6885D33.jpg",
+    "title": "★연말세일★ 아워홈 도톰 계란옷입은 동그랑땡 390g",
+    "detail": "계란옷을 도톰하게 입혀 입안 가득 고소함이 가득!",
+    "price": 6980,
+    "sale_price": 6630,
+    "sale_percent": "5%",
+    "temp": "냉동",
+    "count": 0
+  },
+
+  {
+    "image": "https://mall.ourhome.co.kr//attach_file/20231101/5757B7683B3C42FB9F4280ACBD7E1485.jpg",
+    "title": "[온더고] 중화식 첨면장 불향 덮밥 290g",
+    "detail": "첨면장, 짜장, 계란 후라이, 고추 잡채, 중화식",
+    "price": 6480,
+    "sale_price": 3240,
+    "sale_percent": "50%",
+    "temp": "냉동",
+    "count": 0
+  }
+]

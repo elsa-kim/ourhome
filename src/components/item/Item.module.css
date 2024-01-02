@@ -1,0 +1,85 @@
+.item {
+  display: flex;
+  flex-direction: column;
+}
+
+.image {
+  width: 284px;
+  height: 284px;
+  border: 1px solid rgb(216, 215, 215);
+  margin: 5px 0 18px;
+  position: relative;
+}
+.cart {
+  position: absolute;
+  margin: 230px 120px 0;
+  padding: 10px;
+  border-radius: 50%;
+  background-color: #6666666a;
+  display: none;
+}
+.item:hover .cart {
+  display: block;
+  cursor: pointer;
+}
+.cart_icon {
+  font-size: 30px;
+  color: white;
+}
+.remark {
+  width: 58px;
+  color: white;
+  padding: 3px;
+  font-size: 13px;
+  margin: 0 0 11px;
+  font-weight: bold;
+  text-align: center;
+  border-radius: 5px;
+}
+
+.title {
+  margin: 0;
+  font-size: 17px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.detail {
+  margin: 2px 0 0;
+  font-size: 14px;
+  color: gray;
+}
+.price {
+  display: flex;
+  justify-content: left;
+  width: 100%;
+  margin: 10px 0 0;
+  align-items: baseline;
+}
+.big_price {
+  font-size: 26px;
+  margin: 0;
+}
+.small_price {
+  font-size: 16px;
+  color: #666666;
+  margin: 0 0 0 3px;
+  text-decoration: line-through;
+}
+.percent {
+  color: #ff6500;
+  font-size: 16px;
+  margin: 0 0 0 3px;
+  font-weight: bold;
+}
+.ice {
+  color: rgb(51, 142, 228);
+  margin: 8px 0 0;
+}
+.frozen {
+  color: rgb(64, 64, 172);
+  margin: 8px 0 0;
+}
+.temp {
+  margin: 8px 0 0;
+}
