@@ -8,6 +8,9 @@ export default function CartTable({ item }) {
   const handleMinus = () => {
     let cartList = [...cart];
     cartList.map((i) => {
+      if (i.count === 0) {
+        return alert("0개 미만으로 설정할 수 없습니다.");
+      }
       if (i.title === item.title) i.count -= 1;
       return;
     });
